@@ -1,6 +1,5 @@
 # ______________________________________________________________________________________________________________
 # Cubic Spline Interpolation
-# Authors: Tomer Meirov, Yosi Kadoshi
 # ______________________________________________________________________________________________________________
 # In general form, Cubic Spline Interpolation takes N points: (x0,y0), (x1, y1), (x2, y2)
 # and calculate N-1 functions S0(x), S1(x).. with the following form:
